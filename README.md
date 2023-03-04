@@ -1,2 +1,2 @@
 # steam-lucky-bot
-some useful scripts work on Steam.
+:cookie: some useful scripts work on Steam.
