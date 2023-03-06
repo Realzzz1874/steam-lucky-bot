@@ -24,7 +24,7 @@ Edit these fields:
 account_id: // your steam account id
 cookie: // your cookie (copy from steam website
 appid: [] // Unlock [appids]`s lastest achievements
-schedule: [cron format]
+schedule: [cron format] // cron format 
 ```
 
 Now, you can:
