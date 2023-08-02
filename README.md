@@ -31,7 +31,7 @@ Now, you can:
 ```bash
 pm2 start index.js
 ```
-OR only:
+Or only:
 ```
 pm2 start xxx.js
 ```
